@@ -1,3 +1,7 @@
 function Control(){
+
+}
+
+function Horse(){
     
 }
